@@ -1,0 +1,68 @@
+nav * {
+	line-height: 52px;
+}
+#name {
+	margin-top: 10px;
+}
+nav li {
+	margin-left: 40px;
+}
+#head {
+	background-color: #dd1e2f;
+}
+#head * {
+	color: #fff;
+}
+#about {
+	background-color: #ebb035;
+}
+#about * {
+	color: #fff;
+}
+#tweeter {
+	background-color: rgba(0,0,0,0.1);
+	padding: 20px;
+	margin-top: 0;
+}
+.bmargin {
+	margin-bottom: 80px;
+}
+.bmargin-top {
+	margin-top: 80px;
+}
+.margin {
+	margin-bottom: 40px;
+}
+.margin-top {
+	margin-top: 40px;
+}
+.smargin {
+	margin-bottom: 20px;
+}
+.smargin-top {
+	margin-top: 20px;
+}
+.secondary {
+	opacity: 0.7;
+}
+.slim{
+	font-weight: 200;
+}
+.nowrap {
+	white-space: nowrap;
+}
+.pos-rel {
+	position: relative;
+}
+.down-triangle {
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 30px 35px 0 35px;
+	border-color: #fff transparent transparent transparent;
+	position: absolute;
+	left: 45px;
+	margin:auto;
+	bottom: -20px;
+	
+}
